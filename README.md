@@ -1,4 +1,4 @@
-# 📊 Mobile Sales Analytics Dashboard (Excel Version 1)
+# 📊 Mobile Sales Analytics Dashboard
 
 An interactive Excel dashboard that provides insights into mobile phone sales across multiple brands, regions, and time periods. Built for quick business intelligence, it allows users to track key performance indicators, identify sales trends, and support data-driven decision-making.
 
